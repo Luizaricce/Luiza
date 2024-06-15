@@ -1,6 +1,6 @@
 import pandas as pd  
 
-arquivo = "projetos.csv" 
+arquivo = "https://raw.githubusercontent.com/Luizaricce/Luiza/main/projetos-1.csv" 
 df = pd.read_csv(arquivo, sep=';') 
 df.head(23)
 
