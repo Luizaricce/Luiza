@@ -17,7 +17,7 @@ page_icon="👋",
  
 st.header("Dados do Projeto")
  
-arquivo = "https://raw.githubusercontent.com/TWTVtrG/Trabalho-14-06/main/projetos.csv"
+arquivo = "https://raw.githubusercontent.com/Luizaricce/Luiza/main/projetos-1.csv"
 
 df = pd.read_csv(arquivo, sep=';') 
 
